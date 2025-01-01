@@ -1,0 +1,1 @@
+This folder contains initial tryouts of the explainable AI methods. This folder does not deal with a large set of data, rather it tests out different methods on individual managable amount of cases. It tests all kinds of methods starting from saliency to shap to integrated gradients.
